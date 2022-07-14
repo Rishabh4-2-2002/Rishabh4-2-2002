@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh4-2-2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh4-2-2002" /> </p>
 
-- 🔭 I’m currently working on [BMI calculator](https://github.com/Rishabh4-2-2002/FLUTTER-PROJECTS/tree/master/bmi_calculator)
+- 🔭 I’m currently working on [CLIMA - weather app](https://github.com/Rishabh4-2-2002/FLUTTER-PROJECTS/tree/master/Clima)
 
 - 🌱 I’m currently learning **App development, DSA**
 

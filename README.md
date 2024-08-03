@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Handoo</h1>
-<h3 align="center">Pre-Final year TIET</h3>
+<h3 align="center">Final year TIET</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh4-2-2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh4-2-2002" /> </p>
